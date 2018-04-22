@@ -1,0 +1,27 @@
+body{
+    
+    color: #000305;
+    font-size: 87.5%; 
+    font-family: Arial; 
+    text-align: left; 
+}    
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+
+}
+
+a:hover, a:active{
+
+}
+
+
+.body {
+    margin: 0 auto;
+    width: 70%;
+    clear: both;
+}
+
